@@ -10,7 +10,7 @@ Data Cleaning: Checking for missing values and handling them if present.
 Exploratory Data Analysis (EDA): Statistical summaries, correlation analysis, and other descriptive statistics.
 Data Visualization: Using Seaborn and Matplotlib to create plots, charts, and visualizations that illustrate trends and insights.
 
-##Results and Visualizations
+## Results and Visualizations
 The project outputs include several visualizations, such as:
 Histograms and bar charts of scores.
 Scatter plots to analyze relationships between variables.
